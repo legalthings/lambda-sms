@@ -1,0 +1,16 @@
+{
+  "name": "lambda-sms",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dynamodb-doc": "git+https://github.com/awslabs/dynamodb-document-js-sdk.git",
+    "plivo": "*",
+    "mustache": "*"
+  },
+  "devDependencies": {
+    "node-lambda": "~0.6.1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

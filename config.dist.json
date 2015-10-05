@@ -1,0 +1,7 @@
+{
+    "dynamoDB": "sms_templates",
+    "plivo": {
+      "authId": "YOUR AUTH ID",
+      "authToken": "YOUR AUTH TOKEN"
+    }
+}
